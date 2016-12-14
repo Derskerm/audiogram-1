@@ -101,5 +101,23 @@
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
     "backgroundImage": "nyc.png"
+  },
+  "Holidays": {
+    "width": 1280,
+    "height": 720,
+    "framesPerSecond": 20,
+    "maxDuration": 300,
+    "samplesPerFrame": 128,
+    "pattern": "wave",
+    "waveTop": 374,
+    "waveBottom": 684,
+    "captionTop": 470,
+    "captionFont": "300 52px 'Source Sans Pro'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionLeft": 200,
+    "captionRight": 1080,
+    "backgroundImage": "holiday-break-banner.png",
+    "waveColor": "#ffffff"
   }
 }
